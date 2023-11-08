@@ -1,16 +1,21 @@
-# get_address_app
+# Get Address
 
-A new Flutter project.
+Simple UI Screen 👍
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://github.com/Shalaby-VBS/Get_Address/assets/149938388/81c1bf49-2e30-4c1b-ad20-576509c1deeb
+
+
+## Dependencies
+
+1️⃣ flutter_local_notifications: ^14.1.1
+
+2️⃣ geolocator: ^9.0.2
+
+3️⃣ geocoding: ^2.1.0
